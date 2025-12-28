@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Android
+android/.gradle/
+android/app/build/
+*.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Next.js
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
